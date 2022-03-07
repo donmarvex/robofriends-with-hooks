@@ -5,7 +5,7 @@ Live deployment can be found on;
 - Netlify [_here_](https://robofriendswithme.netlify.app/)
 - GitHub pages [_here_](https://donmarvex.github.io/robofriends/)
 
-The web app gets information about robot users through the {JSON} Placeholder API, which can be accessed  [_here_](https://jsonplaceholder.typicode.com/).
+The web app gets information about robot users through the {JSON} Placeholder API, which can be accessed  [_here_](https://jsonplaceholder.typicode.com/) and generated images from the Robohash API also [_here_](https://robohash.org)
 
 As the user interacts with the search component, the robots automatically get updated depending on the input in the search field.
 
